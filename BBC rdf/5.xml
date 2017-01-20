@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 5: http://www.bbc.co.uk/mediaselector/4/mtis/stream/b03c46k0/iplayer_intl_stream_aac_rtmp_concrete/limelight?cb=72582 -->
+<mediaSelection xmlns="http://bbc.co.uk/2008/mp/mediaselection">
+	<media bitrate="32" 
+		encoding="aac" 
+		expires="2013-10-18T23:50:00+00:00" 
+		kind="audio" 
+		service="iplayer_intl_stream_aac_rtmp_concrete" 
+		type="audio/mp4"><connection application="a5999/e1" 
+		authExpires="2013-10-13T09:31:14+00:00" 
+		authString="as=adobe-hmac-sha256&amp;av=1&amp;te=connect&amp;mp=radio4/secure_auth/international/RBN2_radio_4_fm_-_saturday_0030_b03c46k0_2013_10_12_00_12_48.mp4&amp;et=1381658197&amp;fmta-token=a9593f756267ed3fc282d793b70c2343c9e1de1bf395ef157237b2a8532bd71b" 
+		identifier="mp4:radio4/secure_auth/international/RBN2_radio_4_fm_-_saturday_0030_b03c46k0_2013_10_12_00_12_48.mp4" 
+		kind="limelight" 
+		priority="9" 
+		protocol="rtmp" 
+		server="bbcodspdns.fcod.llnwd.net" 
+		supplier="limelight"/>
+	</media>
+</mediaSelection>

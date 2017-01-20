@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 2: http://feeds.bbc.co.uk/iplayer/episode/b03c46nt -->
+
+<!--
+updated
+title  (full cumulative)
+reader
+producer
+author
+ -->
+
+
+<?xml-stylesheet href="http://www.bbc.co.uk/iplayer/style/rss.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-GB">
+  <title>BBC iPlayer - Episode Detail: Book of the Week: Beowulf: Episode 10</title>
+  <subtitle>The funeral of Beowulf.</subtitle>
+  <updated>2013-10-13T07:49:40Z</updated>
+  <id>tag:feeds.bbc.co.uk,2008:/iplayer/feed/episode/b03c46nt</id>
+  <link rel="related" href="http://www.bbc.co.uk/iplayer" type="text/html" />
+  <link rel="self" href="http://feeds.bbc.co.uk/iplayer/episode/b03c46nt" type="application/atom+xml" />
+  <author>
+    <name>BBC</name>
+    <uri>http://www.bbc.co.uk</uri>
+  </author>
+  <entry>
+    <title type="text">Book of the Week: Beowulf: Episode 10</title>
+    <id>tag:feeds.bbc.co.uk,2008:PIPS:b03c46nt</id>
+    <updated>2013-10-03T23:08:06Z</updated>
+    <summary>The funeral of Beowulf.</summary>
+    <content type="html">
+      &lt;p&gt;
+        &lt;a href=&quot;http://www.bbc.co.uk/iplayer/episode/b03c46nt/Book_of_the_Week_Beowulf_Episode_10/&quot;&gt;
+          &lt;img src=&quot;http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_150_84.jpg&quot; alt=&quot;Book of the Week: Beowulf: Episode 10&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+        Seamus Heaney reads from his translation of the great Anglo-Saxon poem. The funeral of Beowulf.
+      &lt;/p&gt;
+    </content>
+    <link rel="alternate" href="http://www.bbc.co.uk/iplayer/episode/b03c46nt/Book_of_the_Week_Beowulf_Episode_10/" type="text/html" title="Book of the Week: Beowulf: Episode 10">
+      <media:content medium="audio" duration="900">
+        <media:title>Book of the Week: Beowulf: Episode 10</media:title>
+        <media:description>Seamus Heaney reads from his translation of the great Anglo-Saxon poem. The funeral of Beowulf.</media:description>
+        <media:restriction relationship="allow">all</media:restriction>
+        <media:player url="http://www.bbc.co.uk/iplayer/episode/b03c46nt/Book_of_the_Week_Beowulf_Episode_10/" />
+        <media:category scheme="urn:bbc:metadata:cs:iPlayerUXCategoriesCS" label="Drama">9100003</media:category>
+        <media:credit role="Production Department" scheme="urn:ebu">BBC Radio 4</media:credit>
+        <media:credit role="Publishing Company" scheme="urn:ebu">BBC Radio 4</media:credit>
+        <media:credit role="reader" scheme="urn:ebu">Seamus Heaney</media:credit>
+        <media:credit role="producer" scheme="urn:ebu">Susan Roberts</media:credit>
+        <media:credit role="author" scheme="urn:ebu">Seamus Heaney</media:credit>
+        <media:thumbnail url="http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_86_48.jpg" width="86" height="48" />
+        <media:thumbnail url="http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_150_84.jpg" width="150" height="84" />
+        <media:thumbnail url="http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_178_100.jpg" width="178" height="100" />
+        <media:thumbnail url="http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_512_288.jpg" width="512" height="288" />
+        <media:thumbnail url="http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_528_297.jpg" width="528" height="297" />
+        <media:thumbnail url="http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_640_360.jpg" width="640" height="360" />
+        <dcterms:valid>
+          start=2013-10-11T09:32:55Z;
+          end=2013-10-18T23:50:00Z;
+          scheme=W3C-DTF
+        </dcterms:valid>
+      </media:content>
+    </link>
+    <link rel="self" href="http://feeds.bbc.co.uk/iplayer/episode/b03c46nt?format=atom" type="application/atom+xml" title="Episode 10" />
+    <link rel="related" href="http://www.bbc.co.uk/programmes/b006qftk/microsite" type="text/html" title="Book of the Week" />
+    <link rel="parent" href="http://feeds.bbc.co.uk/iplayer/programme_set/b03c5c4d" type="application/atom+xml" title="Beowulf" />
+  </entry>
+</feed>

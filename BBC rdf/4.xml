@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 4: http://www.bbc.co.uk/mediaselector/4/mtis/stream/b03c46k0?cb=30667 -->
+<mediaSelection xmlns="http://bbc.co.uk/2008/mp/mediaselection">
+	<media 
+		bitrate="48" 
+		encoding="wma9" 
+		expires="2013-10-18T23:50:00+00:00" 
+		kind="audio" 
+		service="iplayer_intl_stream_wma_lo_concrete" 
+		type="audio/wma">
+		<connection href="http://www.bbc.co.uk/mediaselector/4/asx/b03c46k0/iplayer_intl_stream_wma_lo_concrete" 
+			identifier="b03c46k0/iplayer_intl_stream_wma_lo_concrete" 
+			kind="asx" 
+			priority="10" 
+			protocol="http" 
+			server="http://www.bbc.co.uk/mediaselector/4/asx/" 
+			supplier="asx"/>
+	</media>
+	<media 
+		bitrate="32"
+		encoding="aac" 
+		expires="2013-10-18T23:50:00+00:00" 
+		kind="audio" 
+		service="iplayer_intl_stream_aac_rtmp_concrete" 
+		type="audio/mp4"><connection application="a5999/e1" 
+		authExpires="2013-10-13T09:47:32+00:00" 
+		authString="as=adobe-hmac-sha256&amp;av=1&amp;te=connect&amp;mp=radio4/secure_auth/international/RBN2_radio_4_fm_-_saturday_0030_b03c46k0_2013_10_12_00_12_48.mp4&amp;et=1381658121&amp;fmta-token=499a0358ae038c758cc2d5addd45bc8378b505484e24f780a0c77eaa8836d80f" 
+		identifier="mp4:radio4/secure_auth/international/RBN2_radio_4_fm_-_saturday_0030_b03c46k0_2013_10_12_00_12_48.mp4" 
+		kind="limelight" 
+		priority="9" 
+		protocol="rtmp" 
+		server="bbcodspdns.fcod.llnwd.net" 
+		supplier="limelight"/>
+	</media>
+
+</mediaSelection>

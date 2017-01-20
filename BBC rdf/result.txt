@@ -1,0 +1,53 @@
+available:      Unknown
+categories:     Drama
+category:       Drama
+channel:        BBC Radio 4
+desc:           The funeral of Beowulf.  Produced in Salford by Susan Roberts. Radio Drama North.
+descmedium:     Seamus Heaney reads from his translation of the great Anglo-Saxon poem. The funeral of Beowulf.
+descshort:      The funeral of Beowulf.
+dir:            C:\Users\Public\Documents\common\incoming
+dldate:         2013-10-13
+dltime:         18:49:38
+duration:       900
+durations:      default: 900
+episode:        Beowulf: Episode 10
+episodenum:     10
+episodeshort:   Beowulf
+expiry:         2013-10-18T23:50:00Z
+expiryrel:      in 5 days 16 hours
+ext:            EXT
+filename:       C:\Users\Public\Documents\common\incoming\Book_of_the_Week_-_Beowulf_Episode_10_b03c46nt_default.EXT
+filepart:       C:\Users\Public\Documents\common\incoming\Book_of_the_Week_-_Beowulf_Episode_10_b03c46nt_default.partial
+.EXT
+fileprefix:     Book_of_the_Week_-_Beowulf_Episode_10_b03c46nt_default
+firstbcast:     default: 2013-10-11T09:45:00+01:00
+firstbcastdate: default: 2013-10-11
+firstbcastrel:  default: 1 days 23 hours ago
+index:          11782
+lastbcast:      default: 2013-10-12T00:30:00+01:00
+lastbcastdate:  default: 2013-10-12
+lastbcastrel:   default: 1 days 8 hours ago
+longname:       Book of the Week
+modes:          default: flashaaclow1,rtspaaclow1,wma1
+modesizes:      default: flashaaclow1=4MB,rtspaaclow1=4MB,wma1=5MB
+name:           Book of the Week
+nameshort:      Book of the Week
+pid:            b03c46nt
+player:         http://www.bbc.co.uk/iplayer/episode/b03c46nt/Book_of_the_Week_Beowulf_Episode_10/
+senum:          s01e10
+seriesnum:      1
+thumbfile:      C:\Users\Public\Documents\common\incoming\Book_of_the_Week_-_Beowulf_Episode_10_b03c46nt_default.jpg
+thumbnail:      http://www.bbc.co.uk/iplayer/images/episode/b03c46nt_150_84.jpg
+thumbnail1:     http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_86_48.jpg
+thumbnail2:     http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_150_84.jpg
+thumbnail3:     http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_178_100.jpg
+thumbnail4:     http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_512_288.jpg
+thumbnail5:     http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_528_297.jpg
+thumbnail6:     http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_640_360.jpg
+timeadded:      9 days 3 hours ago (1380859517)
+title:          Book of the Week: Beowulf: Episode 10
+type:           radio
+verpids:        default: b03c46k0
+version:        default
+versions:       default
+web:            http://www.bbc.co.uk/programmes/b03c46nt.html

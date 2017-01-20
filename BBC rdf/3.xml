@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 3: http://www.bbc.co.uk/iplayer/playlist/b03c46nt -->
+<!--
+	identifier="b03c46k0"   ???????? 
+	group="b03c46nt"	original
+	duration 
+-->
+
+<playlist xmlns="http://bbc.co.uk/2008/emp/playlist" revision="1">
+  <config>
+    <plugin name="iPlayerLiveStats"/>
+  </config> 
+  <id>tag:bbc.co.uk,2008:pips:b03c46nt:playlist</id>
+  <link rel="self" href="http://www.bbc.co.uk/iplayer/playlist/b03c46nt/"/>
+  <link rel="alternate" href="http://www.bbc.co.uk/iplayer/episode/b03c46nt/Book_of_the_Week_Beowulf_Episode_10/"/>
+  <link rel="holding" href="http://ichef.bbci.co.uk/programmeimages/episode/b03c46nt_640_360.jpg" height="360" width="640" type="image/jpeg" />
+  <link rel="masterbrand" href="http://www.bbc.co.uk/radio4" />
+  <title>Book of the Week: Beowulf: Episode 10</title>
+  <summary>Seamus Heaney reads from his translation of the great Anglo-Saxon poem. The funeral of Beowulf.</summary>
+  <updated>2013-10-03T23:08:06Z</updated>  
+  <rights>
+    <right name="embed">unset</right>
+  </rights>  
+  <item kind="radioProgramme" duration="900" identifier="b03c46k0" group="b03c46nt" publisher="pips">
+    <title>Book of the Week: Beowulf: Episode 10</title>
+    <broadcast>2013-10-11T08:45:00Z</broadcast>
+    <service id="bbc_radio_four" href="http://www.bbc.co.uk/iplayer/bbc_radio_four">BBC Radio 4</service>
+    <masterbrand id="bbc_radio_four" href="http://www.bbc.co.uk/iplayer/radio/bbc_radio_four">BBC Radio 4</masterbrand>
+    <passionSite href="http://www.bbc.co.uk/programmes/b006qftk/microsite">Book of the Week</passionSite>
+    <alternate id="default" />
+    <mediator identifier="b03c46k0" name="pips" media_set="emp"/>
+  </item>      
+  <relatedLink>
+	<id>tag:bbc.co.uk,2008:iplayer:concept_pid:b03c46dc</id>
+	<title>Book of the Week: Beowulf: Episode 9</title>
+	<link rel="alternate" href="http://www.bbc.co.uk/iplayer/episode/b03c46dc/Book_of_the_Week_Beowulf_Episode_9/" />
+	<link rel="thumb" href="http://ichef.bbci.co.uk/programmeimages/episode/b03c46dc_150_84.jpg" type="image/jpeg" width="150" height="84" />
+	<summary>Beowulf, who has now ruled the Geats for 50 winters, fights the dragon.</summary>
+  </relatedLink>
+  <relatedLink>
+	<id>tag:bbc.co.uk,2008:iplayer:concept_pid:b03c45hh</id>
+	<title>Book of the Week: Beowulf: Episode 8</title>
+	<link rel="alternate" href="http://www.bbc.co.uk/iplayer/episode/b03c45hh/Book_of_the_Week_Beowulf_Episode_8/" />
+	<link rel="thumb" href="http://ichef.bbci.co.uk/programmeimages/episode/b03c45hh_150_84.jpg" type="image/jpeg" width="150" height="84" />
+	<summary>After the death of King Hygelac, Beowulf rules the land of the Geats wisely for 50 winters. Then, a dragon awakes.</summary>
+  </relatedLink>
+</playlist>

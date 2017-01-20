@@ -1,0 +1,6 @@
+1. http://www.bbc.co.uk/programmes/b03c46nt.rdf
+2. http://feeds.bbc.co.uk/iplayer/episode/b03c46nt
+3. http://www.bbc.co.uk/iplayer/playlist/b03c46nt
+4. http://www.bbc.co.uk/mediaselector/4/mtis/stream/b03c46k0?cb=30667
+5. http://www.bbc.co.uk/mediaselector/4/mtis/stream/b03c46k0/iplayer_intl_stream_aac_rtmp_concrete/limelight?cb=72582
+6. http://www.bbc.co.uk/programmes/b03c46k0.rdf

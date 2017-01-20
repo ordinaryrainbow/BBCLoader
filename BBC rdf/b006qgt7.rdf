@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf      = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs     = "http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl      = "http://www.w3.org/2002/07/owl#"
+         xmlns:foaf     = "http://xmlns.com/foaf/0.1/"
+         xmlns:po       = "http://purl.org/ontology/po/"
+         xmlns:mo       = "http://purl.org/ontology/mo/"
+         xmlns:skos     = "http://www.w3.org/2008/05/skos#"
+         xmlns:time     = "http://www.w3.org/2006/time#"
+         xmlns:dc       = "http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms  = "http://purl.org/dc/terms/"
+         xmlns:wgs84_pos= "http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:timeline = "http://purl.org/NET/c4dm/timeline.owl#"
+         xmlns:event    = "http://purl.org/NET/c4dm/event.owl#">
+
+<rdf:Description rdf:about="/programmes/b006qgt7.rdf">
+  <rdfs:label>Description of the brand "The Now Show"</rdfs:label>
+  <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-06-15T07:13:25+01:00</dcterms:created>
+  <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-11-28T16:57:25Z</dcterms:modified>
+  <foaf:primaryTopic rdf:resource="/programmes/b006qgt7#programme"/>
+</rdf:Description>
+
+<po:Brand rdf:about="/programmes/b006qgt7#programme">
+
+  <po:pid>b006qgt7</po:pid>
+  <dc:title>The Now Show</dc:title>
+  <po:short_synopsis>Comedy sketches and satirical comments from Steve Punt, Hugh Dennis and guests</po:short_synopsis>
+  <po:medium_synopsis>Comedy sketches and satirical comments from Steve Punt, Hugh Dennis and guests</po:medium_synopsis>
+  
+
+  <foaf:depiction rdf:resource="http://www.bbc.co.uk/iplayer/images/progbrand/b006qgt7_512_288.jpg"/>
+
+  
+
+  <po:genre rdf:resource="/programmes/genres/comedy/satire#genre" />
+  <po:genre rdf:resource="/programmes/genres/comedy/sketch#genre" />
+
+
+  <po:masterbrand rdf:resource="/radio4#service"/>
+
+  <po:series rdf:resource="/programmes/b00c7436#programme" />
+  <po:series rdf:resource="/programmes/b00fm9tr#programme" />
+  <po:series rdf:resource="/programmes/b00hwtwx#programme" />
+  <po:series rdf:resource="/programmes/b00l6g04#programme" />
+  <po:series rdf:resource="/programmes/b01llkc4#programme" />
+  <po:series rdf:resource="/programmes/b01nvr49#programme" />
+  <po:series rdf:resource="/programmes/b007shy4#programme" />
+  <po:series rdf:resource="/programmes/b007shxt#programme" />
+  <po:series rdf:resource="/programmes/b008cz98#programme" />
+  <po:series rdf:resource="/programmes/b0092xw3#programme" />
+  <po:series rdf:resource="/programmes/b00nz3r6#programme" />
+  <po:series rdf:resource="/programmes/b00r2f2r#programme" />
+  <po:series rdf:resource="/programmes/b00sq2g7#programme" />
+  <po:series rdf:resource="/programmes/b00w5csh#programme" />
+  <po:series rdf:resource="/programmes/b00z62fj#programme" />
+  <po:series rdf:resource="/programmes/b011r6m9#programme" />
+  <po:series rdf:resource="/programmes/b017b53c#programme" />
+  <po:series rdf:resource="/programmes/b01c9mph#programme" />
+  <po:series rdf:resource="/programmes/b01jl6k4#programme" />
+  <po:series rdf:resource="/programmes/b01nvbg7#programme" />
+  <po:series rdf:resource="/programmes/b01qlm84#programme" />
+  <po:series rdf:resource="/programmes/b01sjjg0#programme" />
+  <po:series rdf:resource="/programmes/b03btqfj#programme" />
+
+  <po:episode rdf:resource="/programmes/b0103rz0#programme" />
+  <po:episode rdf:resource="/programmes/b00x7h1k#programme" />
+  <po:episode rdf:resource="/programmes/b00lxxwg#programme" />
+  <po:episode rdf:resource="/programmes/b00pkzqs#programme" />
+  <po:episode rdf:resource="/programmes/b00k7tvj#programme" />
+  <po:episode rdf:resource="/programmes/b00ct1wh#programme" />
+  <po:episode rdf:resource="/programmes/b00g9m6l#programme" />
+  <po:episode rdf:resource="/programmes/b00b52jx#programme" />
+  <po:episode rdf:resource="/programmes/b00jm1b3#programme" />
+  <po:episode rdf:resource="/programmes/b00ljn71#programme" />
+  <po:episode rdf:resource="/programmes/b00wfwcg#programme" />
+  <po:episode rdf:resource="/programmes/b008lz53#programme" />
+  <po:episode rdf:resource="/programmes/b009qnjs#programme" />
+  <po:episode rdf:resource="/programmes/b00cft6x#programme" />
+  <po:episode rdf:resource="/programmes/b00p84qf#programme" />
+  <po:episode rdf:resource="/programmes/b00fy360#programme" />
+  <po:episode rdf:resource="/programmes/b0109lbx#programme" />
+  <po:episode rdf:resource="/programmes/b00m0lcy#programme" />
+  <po:episode rdf:resource="/programmes/b008fxx4#programme" />
+  <po:episode rdf:resource="/programmes/b00pr810#programme" />
+  <po:episode rdf:resource="/programmes/b00czc0g#programme" />
+  <po:episode rdf:resource="/programmes/b00gj8t3#programme" />
+  <po:episode rdf:resource="/programmes/b00jtgkm#programme" />
+  <po:episode rdf:resource="/programmes/b00lmdjp#programme" />
+  <po:episode rdf:resource="/programmes/b00wllcy#programme" />
+  <po:episode rdf:resource="/programmes/b008p753#programme" />
+  <po:episode rdf:resource="/programmes/b00zddjc#programme" />
+  <po:episode rdf:resource="/programmes/b009v5dl#programme" />
+  <po:episode rdf:resource="/programmes/b00ck4hq#programme" />
+  <po:episode rdf:resource="/programmes/b00pbx1w#programme" />
+  <po:episode rdf:resource="/programmes/b00fyvjt#programme" />
+  <po:episode rdf:resource="/programmes/b00j59gj#programme" />
+  <po:episode rdf:resource="/programmes/b009gcxz#programme" />
+  <po:episode rdf:resource="/programmes/b00m508d#programme" />
+  <po:episode rdf:resource="/programmes/b008h5z6#programme" />
+  <po:episode rdf:resource="/programmes/b00d06p9#programme" />
+  <po:episode rdf:resource="/programmes/b00zf5t4#programme" />
+  <po:episode rdf:resource="/programmes/b00jz5dq#programme" />
+  <po:episode rdf:resource="/programmes/b00lqfm0#programme" />
+  <po:episode rdf:resource="/programmes/b00wr9nl#programme" />
+  <po:episode rdf:resource="/programmes/b00zlbyl#programme" />
+  <po:episode rdf:resource="/programmes/b009z656#programme" />
+  <po:episode rdf:resource="/programmes/b00cncl5#programme" />
+  <po:episode rdf:resource="/programmes/b00pdkf6#programme" />
+  <po:episode rdf:resource="/programmes/b00g1821#programme" />
+  <po:episode rdf:resource="/programmes/b009kh4z#programme" />
+  <po:episode rdf:resource="/programmes/b007qrwk#programme" />
+  <po:episode rdf:resource="/programmes/b00m9p2y#programme" />
+  <po:episode rdf:resource="/programmes/b008hvz6#programme" />
+  <po:episode rdf:resource="/programmes/b00k2bz5#programme" />
+  <po:episode rdf:resource="/programmes/b00lv793#programme" />
+  <po:episode rdf:resource="/programmes/b00wvdb9#programme" />
+  <po:episode rdf:resource="/programmes/b00zsbkb#programme" />
+  <po:episode rdf:resource="/programmes/b00b1pcc#programme" />
+  <po:episode rdf:resource="/programmes/b00cpvdz#programme" />
+  <po:episode rdf:resource="/programmes/b00pgqf4#programme" />
+  <po:episode rdf:resource="/programmes/b00w8vzm#programme" />
+  <po:episode rdf:resource="/programmes/b00g27lk#programme" />
+  <po:episode rdf:resource="/programmes/b00jh3zd#programme" />
+  <po:episode rdf:resource="/programmes/b009n4nh#programme" />
+  <po:episode rdf:resource="/programmes/b01dvzgm#programme" />
+  <po:episode rdf:resource="/programmes/b008jwjq#programme" />
+
+  <po:clip rdf:resource="/programmes/p00wbfgj#programme"/>
+  <po:clip rdf:resource="/programmes/p00v0nl2#programme"/>
+
+</po:Brand>
+
+
+</rdf:RDF>
